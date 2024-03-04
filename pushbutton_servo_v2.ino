@@ -1,5 +1,3 @@
-//sketch created by Akshay Joseph follow me on Instagra: five_volt_player
-
 #include<Servo.h>
 Servo Myservo;
 int pos=0;
